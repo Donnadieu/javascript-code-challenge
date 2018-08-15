@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2018-08-15T00:37:42.441Z",
+    "end": "2018-08-15T00:37:42.467Z",
+    "duration": 26
+  },
+  "tests": [
+    {
+      "title": "reverses the array",
+      "fullTitle": "reverseArray() reverses the array",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "it's not hard coded",
+      "fullTitle": "reverseArray() it's not hard coded",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should log \"Oh powerful [stringElement], we humans offer our unconditional surrender!\"",
+      "fullTitle": "greetAliens() takes in an array of strings and uses a for loop to print a greeting with each string in the array should log \"Oh powerful [stringElement], we humans offer our unconditional surrender!\"",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "takes in an array and, returns a new array with each string in the array prepended with 'baby'",
+      "fullTitle": "convertToBaby() takes in an array and, returns a new array with each string in the array prepended with 'baby'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "it's not hard coded",
+      "fullTitle": "convertToBaby() it's not hard coded",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "it returns an array with a collection of the smallest power of all the number passed in the array",
+      "fullTitle": "smallestPowerOfTwo() it returns an array with a collection of the smallest power of all the number passed in the array",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "reverses the array",
+      "fullTitle": "reverseArray() reverses the array",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "it's not hard coded",
+      "fullTitle": "reverseArray() it's not hard coded",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "should log \"Oh powerful [stringElement], we humans offer our unconditional surrender!\"",
+      "fullTitle": "greetAliens() takes in an array of strings and uses a for loop to print a greeting with each string in the array should log \"Oh powerful [stringElement], we humans offer our unconditional surrender!\"",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "takes in an array and, returns a new array with each string in the array prepended with 'baby'",
+      "fullTitle": "convertToBaby() takes in an array and, returns a new array with each string in the array prepended with 'baby'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "it's not hard coded",
+      "fullTitle": "convertToBaby() it's not hard coded",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "it returns an array with a collection of the smallest power of all the number passed in the array",
+      "fullTitle": "smallestPowerOfTwo() it returns an array with a collection of the smallest power of all the number passed in the array",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
